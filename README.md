@@ -1,4 +1,4 @@
 hong-rean
 =========
 
-To developing "hong-rean" program, that set position student in
+Program to set position classroom or examination room to set position students to make a classroom's environment better.
